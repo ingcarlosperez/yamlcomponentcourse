@@ -1,0 +1,10 @@
+persona1:
+    nombre: Carlos
+    sexo: Masculino
+    profesión: 'Ingeniero de Sistemas y Computación'
+    documento: '4321'
+persona2:
+    nombre: Bibiana
+    sexo: Femenino
+    profesión: 'Contadora Publica'
+    documento: [1]

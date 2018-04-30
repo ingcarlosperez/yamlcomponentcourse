@@ -1,0 +1,5 @@
+person:
+    name: carlos
+    age: !!float 20
+    gender: male    
+    
